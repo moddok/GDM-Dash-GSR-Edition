@@ -1,2 +1,2 @@
-# GDM-Dash-GSR-Edition
+# GSR Dash by GDM
 SimHub Dashboard for iRacing

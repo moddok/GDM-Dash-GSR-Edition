@@ -4,6 +4,12 @@ Made by Martin K. from [GDM](http://glowingdiscmotorsport.de/), customized by me
 
 See the changelog [here](https://github.com/moddok/GSR-Dash-by-GDM/releases)
 
+Features
+------
+Idle Screen
+
+
+
 How to
 ------
 * Download `GSR-Dash-powered-by-GDM.simhubdash` File

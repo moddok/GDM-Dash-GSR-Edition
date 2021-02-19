@@ -1,6 +1,6 @@
 ## GSR Dash by GDM
 SimHub Dashboard for iRacing.
-Made by Marin K. from [GDM](http://glowingdiscmotorsport.de/), customized by me for [GSR](https://www.germansimracing.de).
+Made by Martin K. from [GDM](http://glowingdiscmotorsport.de/), customized by me for [GSR](https://www.germansimracing.de).
 
 
 

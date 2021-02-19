@@ -5,7 +5,8 @@ Made by Martin K. from [GDM](http://glowingdiscmotorsport.de/), customized by me
 How to
 ------
 * Download `*.simhubdash` File
-* Install via double-clicking the `*.simhubdash` File
+* Import the dashboard via double-clicking the `*.simhubdash` File
+* Start the dashboard in SimHub
 * Have fun
 
 Changelog

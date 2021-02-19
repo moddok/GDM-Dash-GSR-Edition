@@ -21,6 +21,8 @@ Ingame screen (overview coming soon:tm:)
 How to
 ------
 * Download `GSR-Dash-powered-by-GDM.simhubdash` File
+* Install `extraproperties.dll` File
+  * Place .dll in SimHub Program folder and restart SimHub. Press Install on the upcoming dialogue.
 * Import the dashboard via double-clicking the downloaded File
 * Start the dashboard in SimHub
 * Have fun

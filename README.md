@@ -5,7 +5,7 @@
 SimHub Dashboard for iRacing.
 Made with :heart: by Martin K. from [GDM](http://glowingdiscmotorsport.de/), customized by me for [GSR](https://discord.gg/GSR).
 
-See the changelog [here](https://github.com/moddok/GSR-Dash-by-GDM/releases)
+See the changelog and releases [here](https://github.com/moddok/GSR-Dash-by-GDM/releases)
 
 Features
 ------

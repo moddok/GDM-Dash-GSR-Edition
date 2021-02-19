@@ -10,3 +10,9 @@ How to
 * Import the dashboard via double-clicking the downloaded File
 * Start the dashboard in SimHub
 * Have fun
+
+todo
+------
+- [x] Make todo list
+- [ ] Write detailed how to
+- [ ] Show features of the dashboard

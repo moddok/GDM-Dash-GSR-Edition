@@ -1,5 +1,6 @@
 ## GSR Dash by GDM
-![Discord](https://img.shields.io/discord/170289352604254217?label=discord.gg%2Fgsr&logo=discord) ![Twitch Status](https://img.shields.io/twitch/status/germansimracing?logo=twitch) ![GitHub all releases](https://img.shields.io/github/downloads/moddok/GSR-Dash-by-GDM/total) ![GitHub](https://img.shields.io/github/license/moddok/gsr-dash-by-gdm) ![GitHub Release Date](https://img.shields.io/github/release-date/moddok/gsr-dash-by-gdm) ![GitHub last commit](https://img.shields.io/github/last-commit/moddok/gsr-dash-by-gdm) 
+![Discord](https://img.shields.io/discord/170289352604254217?label=discord.gg%2Fgsr&logo=discord) ![Twitch Status](https://img.shields.io/twitch/status/germansimracing?logo=twitch)
+![GitHub all releases](https://img.shields.io/github/downloads/moddok/GSR-Dash-by-GDM/total) ![GitHub](https://img.shields.io/github/license/moddok/gsr-dash-by-gdm) ![GitHub Release Date](https://img.shields.io/github/release-date/moddok/gsr-dash-by-gdm) ![GitHub last commit](https://img.shields.io/github/last-commit/moddok/gsr-dash-by-gdm) 
 
 
 SimHub Dashboard for iRacing.

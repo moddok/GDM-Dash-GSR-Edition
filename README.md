@@ -5,8 +5,8 @@ Made by Martin K. from [GDM](http://glowingdiscmotorsport.de/), customized by me
 
 How to
 ------
-* Download `*.simhubdash` File
-* Import the dashboard via double-clicking the `*.simhubdash` File
+* Download `GSR-Dash-powered-by-GDM.simhubdash` File
+* Import the dashboard via double-clicking the downloaded File
 * Start the dashboard in SimHub
 * Have fun
 

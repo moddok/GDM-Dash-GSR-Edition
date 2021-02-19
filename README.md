@@ -7,7 +7,7 @@ See the changelog [here](https://github.com/moddok/GSR-Dash-by-GDM/releases)
 Features
 ------
 Idle Screen
-
+![image](https://github.com/moddok/GSR-Dash-by-GDM/blob/main/src/images/screen_idle.png)
 
 
 How to

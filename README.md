@@ -9,8 +9,3 @@ How to
 * Import the dashboard via double-clicking the downloaded File
 * Start the dashboard in SimHub
 * Have fun
-
-
-Changelog
-------
-**19-02-2021** - Initial Upload

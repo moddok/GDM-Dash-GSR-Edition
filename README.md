@@ -4,5 +4,5 @@ SimHub Dashboard for iRacing
 
 
 Changelog
-------
+======
 **19-02-2021**: Initial Upload

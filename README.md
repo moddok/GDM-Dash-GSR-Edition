@@ -1,5 +1,5 @@
 ## GSR Dash by GDM
-![Discord](https://img.shields.io/discord/170289352604254217?label=discord&style=plastic)
+![Discord](https://img.shields.io/discord/170289352604254217?label=discord&style=flat)
 
 
 SimHub Dashboard for iRacing.

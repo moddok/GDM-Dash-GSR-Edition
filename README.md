@@ -15,7 +15,7 @@ Idle Screen when game is not running
 
 Ingame screen (overview coming soon:tm:)
 
-![image](https://github.com/moddok/GSR-Dash-by-GDM/blob/main/src/images/screen_ingame.png)
+![image](https://github.com/moddok/GSR-Dash-by-GDM/blob/main/src/images/screen_ingamee.png)
 
 
 How to

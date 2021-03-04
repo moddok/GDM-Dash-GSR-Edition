@@ -35,3 +35,4 @@ todo
 - [X] Make todo list
 - [ ] Write detailed how to
 - [ ] Show features of the dashboard
+- [ ] Edit ReplayDash Screen

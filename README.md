@@ -20,7 +20,7 @@ Ingame screen (overview coming soon:tm:)
 
 How to
 ------
-* Download `GSR-Dash-powered-by-GDM.simhubdash` and `GSI.iRacingExtraProperties.dll` files
+* Download the latest release and `GSI.iRacingExtraProperties.dll` files
 * Install `GSI.iRacingExtraProperties.dll` File
   * Place `GSI.iRacingExtraProperties.dll` in SimHub Program folder (e.g. C:\Program Files (x86)\SimHub\) and restart SimHub. Press `Yes` on the upcoming dialogue.
 * Import the dashboard via double-clicking the `GSR-Dash-powered-by-GDM.simhubdash` file

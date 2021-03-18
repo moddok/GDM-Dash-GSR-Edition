@@ -7,7 +7,7 @@ Made with :heart: by Martin K. from [GDM](http://glowingdiscmotorsport.de/), cus
 
 Download, changelog and latest releases [here](https://github.com/moddok/GSR-Dash-by-GDM/releases)
 
-[How to](https://github.com/moddok/GSR-Dash-by-GDM#how-to)
+Scroll down for more information.
 
 Features
 ------

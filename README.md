@@ -25,7 +25,7 @@ How to
 * Download the latest [release](https://github.com/moddok/GSR-Dash-by-GDM/releases) and the [GSI.iRacingExtraProperties.dll](https://github.com/moddok/GSR-Dash-by-GDM/raw/main/GSI.iRacingExtraProperties.dll) files
 * Install `GSI.iRacingExtraProperties.dll` File
   * Place `GSI.iRacingExtraProperties.dll` in SimHub Program folder (e.g. C:\Program Files (x86)\SimHub\) and restart SimHub. Press `Yes` on the upcoming dialogue.
-* Import the dashboard via double-clicking the `GSR-Dash-powered-by-GDM.simhubdash` file
+* Import the dashboard via double-clicking the `GSR-Dash-powered-by-GDM-x.x.x.simhubdash` file
 * Set Dashboard Buttons in options to switch between functions
   * Go to Dash Studio -> Settings and scroll down a bit. Click `Click to configure` on each `Trigger dash Action A..D` to assign a button
 ![image](https://github.com/moddok/GSR-Dash-by-GDM/blob/main/src/images/setup_simhub_dashbuttons.png)
